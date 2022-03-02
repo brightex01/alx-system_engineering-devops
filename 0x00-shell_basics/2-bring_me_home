@@ -1,2 +1,2 @@
 #!/bin/bash
-echo HOME \ln
+cd /root \ln
